@@ -10,6 +10,10 @@ blocked (`github.com` is allowlisted in most enterprises).
 
 > **Website & full download page:** https://kinetex.ai/download.html
 
+## Screenshot
+
+![Compare](compare.jpg)
+
 ## Download
 
 Get the latest version from the **[Releases](../../releases/latest)** page, then
@@ -22,10 +26,6 @@ pick one:
 
 Both are 64-bit Windows. You start on the **free plan**; upgrade to Pro in-app for
 live sources (Workday RaaS, Snowflake, SQL).
-
-## Screenshot
-
-![Compare](compare.jpg)
 
 ## Verifying authenticity
 
