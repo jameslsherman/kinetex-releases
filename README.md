@@ -23,6 +23,10 @@ pick one:
 Both are 64-bit Windows. You start on the **free plan**; upgrade to Pro in-app for
 live sources (Workday RaaS, Snowflake, SQL).
 
+## Screenshot
+
+![Compare](assets/compare.png)
+
 ## Verifying authenticity
 
 Every file is digitally signed by **Kinetex Consulting Services, Inc.** To confirm
