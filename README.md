@@ -25,7 +25,7 @@ live sources (Workday RaaS, Snowflake, SQL).
 
 ## Screenshot
 
-![Compare](assets/compare.png)
+![Compare](compare.jpg)
 
 ## Verifying authenticity
 
