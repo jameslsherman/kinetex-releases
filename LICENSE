@@ -1,0 +1,36 @@
+Kinetex Desktop — Proprietary Software License
+
+Copyright (c) 2026 Kinetex Consulting Services, Inc. All rights reserved.
+
+This repository distributes the compiled, digitally-signed installer files for
+Kinetex Desktop ("the Software"). The Software is proprietary. It is NOT
+open-source software, and no open-source license is granted by its presence here.
+
+Use of the Software is governed solely by the Kinetex Desktop End User License
+Agreement (the "EULA"), available at https://kinetex.ai/terms.html. By
+downloading, installing, or using the Software, you agree to the EULA. In the
+event of any conflict between this notice and the EULA, the EULA controls.
+
+Subject to the EULA, you are granted a limited, non-exclusive, non-transferable,
+revocable right to download and install the Software and to use it on the free
+plan, and on any paid plan(s) for which you hold a valid license key.
+
+Except as expressly permitted by the EULA or by applicable law that cannot be
+waived, you may NOT:
+
+  - redistribute, publish, resell, sublicense, rent, lease, or lend the Software;
+  - modify, adapt, translate, or create derivative works of the Software;
+  - decompile, disassemble, or otherwise reverse-engineer the Software, or
+    attempt to derive its source code;
+  - remove, obscure, or alter any proprietary notices, license keys, or the
+    digital signature on the files in this repository.
+
+THE FILES IN THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY THE EULA AND APPLICABLE
+LAW.
+
+"Kinetex" and "Kinetex Desktop" are trademarks of Kinetex Consulting Services,
+Inc. No trademark rights are granted except as necessary to run the Software as
+intended under the EULA.
+
+For licensing inquiries, visit https://kinetex.ai.
